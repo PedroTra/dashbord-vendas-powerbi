@@ -22,5 +22,18 @@ Analisar desempenho de vendas e identificar indicadores importantes para tomada 
 - Dashboard Power BI
 - Projeto para portfólio GitHub
 
+## Dashboard
+
+### Página 1 - Visão Geral
+
+<img src=pagina1-dashboard.png width="900">
+
+### Página 2 - Análise por Canal
+
+<img src=pagina2-dashboard.png width="900">
+
+### Página 3 - Análise por Produto
+<img src=pagina3-dashboard.png width="900">
+
 ## Autor
 Pedro Faria
