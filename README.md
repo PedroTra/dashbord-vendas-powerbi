@@ -1,34 +1,25 @@
-# Análise de Vendas com Python
+# Dashboard Comercial - Power BI | Calçados
 
-Projeto desenvolvido para portfólio de tecnologia/dados, com foco em análise de vendas usando Python.
+Projeto desenvolvido para portfólio de tecnologia/dados, com foco em análise comercial e visualização de dados utilizando Power BI.
 
 ## Objetivo
 
-Analisar uma base de vendas e gerar indicadores importantes, como:
+Analisar desempenho de vendas, faturamento e indicadores comerciais através de dashboards interativos.
 
-- Faturamento total
-- Produto menos vendido
-- Quantidade vendida por produto
-- Gráfico de vendas por produto
+## Ferramentas utilizadas
 
-## Tecnologias utilizadas
+- Power BI
+- Excel
+- Tratamento e visualização de dados
 
-- Python
-- Pandas
-- Matplotlib
-- CSV
+## Arquivos do projeto
 
-## Estrutura do projeto
-
-- main.py → arquivo principal
-- analise.py → funções de análise dos dados
-- graficos.py → geração dos gráficos
-- vendas.csv → base de dados
-
-## Como executar
-
-```bash
-python main.py
+- dashboard-comercial-calcados.pbix → dashboard Power BI
+- Projeto_PowerBI_Vendas_Calcados_Pedro.xlsx → base de dados
+- pagina1-painel.png → visual do painel
+- pagina2-painel.png → visual do painel
+- pagina3-painel.png → visual do painel
 
 ## Autor
+
 Pedro Faria
