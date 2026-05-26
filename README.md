@@ -1,39 +1,34 @@
-# Dashboard de Vendas - Power BI
+# Análise de Vendas com Python
 
-Projeto desenvolvido para portfólio de Tecnologia/Dados com foco em análise de vendas.
+Projeto desenvolvido para portfólio de tecnologia/dados, com foco em análise de vendas usando Python.
 
 ## Objetivo
-Analisar desempenho de vendas e identificar indicadores importantes para tomada de decisão.
 
-## Ferramentas Utilizadas
-- Power BI
-- Excel
-- Análise de Dados
+Analisar uma base de vendas e gerar indicadores importantes, como:
 
-## Indicadores analisados
-- Faturamento
-- Lucro
-- Quantidade vendida
-- Produtos mais vendidos
-- Canais de venda
+- Faturamento total
+- Produto menos vendido
+- Quantidade vendida por produto
+- Gráfico de vendas por produto
 
-## Arquivos do Projeto
-- Base de dados em Excel
-- Dashboard Power BI
-- Projeto para portfólio GitHub
+## Tecnologias utilizadas
 
-## Dashboard
+- Python
+- Pandas
+- Matplotlib
+- CSV
 
-### Página 1 - Visão Geral
+## Estrutura do projeto
 
-<img src=pagina1-dashboard.png width="900">
+- main.py → arquivo principal
+- analise.py → funções de análise dos dados
+- graficos.py → geração dos gráficos
+- vendas.csv → base de dados
 
-### Página 2 - Análise por Canal
+## Como executar
 
-<img src=pagina2-dashboard.png width="900">
-
-### Página 3 - Análise por Produto
-<img src=pagina3-dashboard.png width="900">
+```bash
+python main.py
 
 ## Autor
 Pedro Faria
