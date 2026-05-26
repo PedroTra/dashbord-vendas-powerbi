@@ -14,7 +14,6 @@ Analisar desempenho de vendas e identificar indicadores importantes para tomada 
 - Faturamento
 - Lucro
 - Quantidade vendida
-- Ticket médio
 - Produtos mais vendidos
 - Canais de venda
 
